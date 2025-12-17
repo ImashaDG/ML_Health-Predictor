@@ -1,4 +1,4 @@
-# Obesity-Level-Predictor
+#Ml Predictor Health
 The project aimed to predict obesity levels (e.g., normal weight, overweight, obese) based on individual health and lifestyle data such as age, weight, physical activity, calorie intake, and eating habits. This can assist healthcare professionals or individuals in taking early preventive action or adjusting lifestyle behaviors.
 
 Techniques Used:
